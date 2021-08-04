@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SepantaJoshani
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :Sepanta_97@yahoo.com
 
 <!---
